@@ -1,0 +1,7 @@
+name: ExtraAPI
+version: '1.0'
+main: dev.meywy.extraAPI.ExtraAPI
+api-version: '1.21'
+authors: [ Meywy ]
+description: API for Extra Plugins
+website: https://meywy.is-a.dev
